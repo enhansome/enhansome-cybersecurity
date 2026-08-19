@@ -15,7 +15,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118612
+            "stars": 118639
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14766
+            "stars": 14768
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6513
+            "stars": 6515
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-18T15:59:52Z",
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1927
+            "stars": 1928
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 22117770,
             "language": "Makefile",
-            "last_commit": "2026-08-17T06:04:10Z",
+            "last_commit": "2026-08-19T15:34:21Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
             "stars": 9618
@@ -141,7 +141,7 @@
             "last_commit": "2022-09-06T07:18:11Z",
             "owner": "ExpLife0011",
             "repo": "awesome-windows-kernel-security-development",
-            "stars": 2074
+            "stars": 2075
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-03T19:54:35Z",
             "owner": "saeidshirazi",
             "repo": "awesome-android-security",
-            "stars": 2006
+            "stars": 2007
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2019-04-10T16:47:06Z",
             "owner": "edelahozuah",
             "repo": "awesome-wifi-security",
-            "stars": 173
+            "stars": 174
           }
         }
       ],
@@ -318,7 +318,7 @@
             "last_commit": "2026-03-17T02:09:12Z",
             "owner": "4ndersonLin",
             "repo": "awesome-cloud-security",
-            "stars": 2478
+            "stars": 2480
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2024-03-01T10:39:44Z",
             "owner": "vaib25vicky",
             "repo": "awesome-mobile-security",
-            "stars": 3524
+            "stars": 3525
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9299
+            "stars": 9301
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14133
+            "stars": 14134
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11765
+            "stars": 11767
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9338
+            "stars": 9339
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5521
+            "stars": 5523
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2026-08-05T18:42:59Z",
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7698
+            "stars": 7704
           }
         },
         {
@@ -978,7 +978,7 @@
             "last_commit": "2026-06-30T01:02:43Z",
             "owner": "paralax",
             "repo": "awesome-cybersecurity-internships",
-            "stars": 585
+            "stars": 584
           }
         }
       ],
@@ -1037,7 +1037,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:01.869Z",
+    "last_updated": "2026-08-19T22:10:18.373Z",
     "original_repository": "secnotes/awesome-cybersecurity",
     "original_repository_id": 462226367,
     "original_repository_sha": "5d32351d49f6ff4e30362e4c4dc589f04f125e73",
