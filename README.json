@@ -15,7 +15,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119108
+            "stars": 119147
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-02-17T13:14:58Z",
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4230
+            "stars": 4231
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-11T11:59:49Z",
             "owner": "gerryguy311",
             "repo": "Free_CyberSecurity_Professional_Development_Resources",
-            "stars": 2178
+            "stars": 2179
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-03T19:54:35Z",
             "owner": "saeidshirazi",
             "repo": "awesome-android-security",
-            "stars": 2014
+            "stars": 2015
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2025-10-10T09:48:06Z",
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2004
+            "stars": 2005
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-15T02:27:49Z",
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
-            "stars": 1728
+            "stars": 1729
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13732
+            "stars": 13731
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-07-31T07:26:37Z",
             "owner": "magnologan",
             "repo": "awesome-k8s-security",
-            "stars": 2008
+            "stars": 2009
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2023-11-04T06:44:24Z",
             "owner": "Metarget",
             "repo": "awesome-cloud-native-security",
-            "stars": 327
+            "stars": 326
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2024-03-01T10:39:44Z",
             "owner": "vaib25vicky",
             "repo": "awesome-mobile-security",
-            "stars": 3525
+            "stars": 3526
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-14T17:07:08Z",
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
-            "stars": 3027
+            "stars": 3028
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9325
+            "stars": 9327
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11798
+            "stars": 11800
           }
         },
         {
@@ -999,7 +999,7 @@
             "last_commit": "2017-11-04T13:32:28Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Security-Gists",
-            "stars": 980
+            "stars": 979
           }
         },
         {
@@ -1037,9 +1037,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:16:06.191Z",
-    "original_repository": "secnotes/awesome-cybersecurity",
-    "original_repository_id": 462226367,
+    "last_updated": "2026-08-27T11:31:18.343Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 462226367,
+      "language": "Python",
+      "last_commit": "2026-04-30T09:39:17Z",
+      "owner": "secnotes",
+      "repo": "awesome-cybersecurity",
+      "stars": 79
+    },
     "original_repository_sha": "5d32351d49f6ff4e30362e4c4dc589f04f125e73",
     "enhanced_repository": "enhansome/enhansome-cybersecurity",
     "enhanced_repository_description": null,
