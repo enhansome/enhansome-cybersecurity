@@ -33,7 +33,7 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 
 ## Comprehensive
 
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,266 | 🐛 40 | 📅 2026-07-26 - A collection of various awesome lists for hackers, pentesters and security researchers.
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 119,269 | 🐛 40 | 📅 2026-07-26 - A collection of various awesome lists for hackers, pentesters and security researchers.
 * [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,805 | 🐛 316 | 📅 2026-01-11 - A collection of *awesome* software, libraries, documents, books, resources and cools stuffs about security.
 * [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,529 | 🐛 125 | 📅 2026-05-05 - A collection of awesome security hardening guides, tools and other resources.
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,231 | 🐛 0 | 📅 2026-02-17 - A collected list of awesome security talks.
@@ -116,7 +116,7 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 ## Information
 
 * [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,699 | 🐛 16 | 🌐 HTML | 📅 2026-06-07 - Curated list of public penetration test reports released by several consulting firms and academic security groups.
-* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,757 | 🐛 2 | 🌐 Markdown | 📅 2026-08-05 - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,755 | 🐛 2 | 🌐 Markdown | 📅 2026-08-05 - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 * [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,076 | 🐛 13 | 📅 2024-03-02 - A curated list of amazingly awesome Cybersecurity datasets.
 * [edu-resources](https://github.com/CSIRT-MU/edu-resources) ⭐ 762 | 🐛 0 | 📅 2026-07-28 - An awesome list of cybersecurity educational resources.
 * [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) ⭐ 586 | 🐛 3 | 📅 2026-06-30 - A list of cybersecurity internships.
