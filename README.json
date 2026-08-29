@@ -15,7 +15,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119211
+            "stars": 119266
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -31,7 +31,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14802
+            "stars": 14805
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -47,7 +47,7 @@
             "last_commit": "2026-05-05T21:38:04Z",
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6527
+            "stars": 6529
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-20T21:55:17Z",
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1931
+            "stars": 1932
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-25T10:02:54Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 875
+            "stars": 877
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9648
+            "stars": 9649
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -165,7 +165,7 @@
             "last_commit": "2022-09-06T07:18:11Z",
             "owner": "ExpLife0011",
             "repo": "awesome-windows-kernel-security-development",
-            "stars": 2074
+            "stars": 2075
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -181,7 +181,7 @@
             "last_commit": "2026-07-03T19:54:35Z",
             "owner": "saeidshirazi",
             "repo": "awesome-android-security",
-            "stars": 2013
+            "stars": 2014
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -229,7 +229,7 @@
             "last_commit": "2026-08-15T02:27:49Z",
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
-            "stars": 1729
+            "stars": 1730
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -283,7 +283,7 @@
             "last_commit": "2026-05-01T18:32:56Z",
             "owner": "arainho",
             "repo": "awesome-api-security",
-            "stars": 3861
+            "stars": 3862
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -337,7 +337,7 @@
             "last_commit": "2026-08-21T13:51:02Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13734
+            "stars": 13739
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -551,7 +551,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4531
+            "stars": 4533
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-14T17:07:08Z",
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
-            "stars": 3028
+            "stars": 3030
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -637,7 +637,7 @@
             "last_commit": "2024-06-05T15:04:42Z",
             "owner": "guardrailsio",
             "repo": "awesome-golang-security",
-            "stars": 1964
+            "stars": 1962
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -653,7 +653,7 @@
             "last_commit": "2023-09-14T12:25:04Z",
             "owner": "guardrailsio",
             "repo": "awesome-php-security",
-            "stars": 1034
+            "stars": 1035
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -755,7 +755,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9328
+            "stars": 9331
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -771,7 +771,7 @@
             "last_commit": "2026-03-08T18:32:29Z",
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1665
+            "stars": 1666
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -841,7 +841,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14160
+            "stars": 14162
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -857,7 +857,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11802
+            "stars": 11803
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -873,7 +873,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9355
+            "stars": 9357
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -889,7 +889,7 @@
             "last_commit": "2024-07-15T08:05:27Z",
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5542
+            "stars": 5545
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -937,7 +937,7 @@
             "last_commit": "2026-07-09T01:53:13Z",
             "owner": "cpuu",
             "repo": "awesome-fuzzing",
-            "stars": 990
+            "stars": 991
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -1007,7 +1007,7 @@
             "last_commit": "2026-08-05T18:42:59Z",
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7755
+            "stars": 7757
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -1023,7 +1023,7 @@
             "last_commit": "2024-03-02T22:06:16Z",
             "owner": "shramos",
             "repo": "Awesome-Cybersecurity-Datasets",
-            "stars": 2075
+            "stars": 2076
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         },
@@ -1109,7 +1109,7 @@
             "last_commit": "2024-02-06T20:50:47Z",
             "owner": "tina1998612",
             "repo": "Awesome-Security-Tool-List",
-            "stars": 396
+            "stars": 397
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
         }
@@ -1118,7 +1118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:50:32.490Z",
+    "last_updated": "2026-08-29T03:23:41.549Z",
     "original_repository_info": {
       "archived": false,
       "id": 462226367,
