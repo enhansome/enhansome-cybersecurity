@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119822,
+            "stars": 119897,
             "topics": [
               "android",
               "awesome",
@@ -50,7 +50,7 @@
             "open_issues": 322,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14835,
+            "stars": 14840,
             "topics": [
               "awesome-list",
               "security"
@@ -136,7 +136,7 @@
             "open_issues": 10,
             "owner": "gerryguy311",
             "repo": "Free_CyberSecurity_Professional_Development_Resources",
-            "stars": 2186,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -157,7 +157,7 @@
             "open_issues": 16,
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1940,
+            "stars": 1941,
             "topics": [
               "certification",
               "cyber-security",
@@ -175,16 +175,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+            "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
             "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T20:07:09Z",
+            "last_commit": "2026-09-07T20:16:40Z",
             "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 890,
+            "stars": 894,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -270,11 +270,11 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T18:33:19Z",
+            "last_commit": "2026-09-07T21:20:40Z",
             "open_issues": 1,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9673,
+            "stars": 9675,
             "topics": [
               "android",
               "awesome",
@@ -301,7 +301,7 @@
             "open_issues": 2,
             "owner": "ExpLife0011",
             "repo": "awesome-windows-kernel-security-development",
-            "stars": 2074,
+            "stars": 2075,
             "topics": [
               "antirootkit",
               "antivirus",
@@ -411,7 +411,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "awesome",
               "awesome-list",
@@ -593,7 +593,7 @@
             "open_issues": 2,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13773,
+            "stars": 13776,
             "topics": [
               "awesome",
               "awesome-list",
@@ -675,7 +675,7 @@
             "open_issues": 6,
             "owner": "jassics",
             "repo": "awesome-aws-security",
-            "stars": 1588,
+            "stars": 1590,
             "topics": [
               "awesome",
               "awesome-list",
@@ -836,7 +836,7 @@
             "open_issues": 5,
             "owner": "puresec",
             "repo": "awesome-serverless-security",
-            "stars": 637,
+            "stars": 636,
             "topics": [
               "awesome",
               "aws-lambda",
@@ -866,7 +866,7 @@
             "open_issues": 4,
             "owner": "kmcquade",
             "repo": "awesome-azure-security",
-            "stars": 479,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1013,7 +1013,7 @@
             "open_issues": 14,
             "owner": "vaib25vicky",
             "repo": "awesome-mobile-security",
-            "stars": 3529,
+            "stars": 3530,
             "topics": [
               "android",
               "android-security",
@@ -1139,7 +1139,7 @@
             "open_issues": 8,
             "owner": "guardrailsio",
             "repo": "awesome-golang-security",
-            "stars": 1962,
+            "stars": 1961,
             "topics": [
               "awesome-list",
               "golang",
@@ -1195,7 +1195,7 @@
             "open_issues": 19,
             "owner": "guardrailsio",
             "repo": "awesome-python-security",
-            "stars": 962,
+            "stars": 961,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1245,7 +1245,7 @@
             "open_issues": 1,
             "owner": "pxlpnk",
             "repo": "awesome-ruby-security",
-            "stars": 474,
+            "stars": 473,
             "topics": [
               "awesome-list",
               "ruby",
@@ -1272,7 +1272,7 @@
             "open_issues": 5,
             "owner": "guardrailsio",
             "repo": "awesome-java-security",
-            "stars": 321,
+            "stars": 320,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1336,7 +1336,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9361,
+            "stars": 9367,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1383,7 +1383,7 @@
             "open_issues": 39,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1484,
+            "stars": 1483,
             "topics": [
               "ethereum",
               "evm",
@@ -1409,7 +1409,7 @@
             "open_issues": 2,
             "owner": "Kim-Hammar",
             "repo": "awesome-rl-for-cybersecurity",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14183,
+            "stars": 14182,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1502,7 +1502,7 @@
             "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11830,
+            "stars": 11834,
             "topics": [
               "awesome",
               "ctf",
@@ -1528,7 +1528,7 @@
             "open_issues": 79,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9373,
+            "stars": 9376,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1558,7 +1558,7 @@
             "open_issues": 79,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5558,
+            "stars": 5561,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1739,7 +1739,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9716,
+            "stars": 9718,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1760,7 +1760,7 @@
             "open_issues": 2,
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7778,
+            "stars": 7780,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1787,7 +1787,7 @@
             "open_issues": 15,
             "owner": "shramos",
             "repo": "Awesome-Cybersecurity-Datasets",
-            "stars": 2078,
+            "stars": 2079,
             "topics": [
               "attack",
               "cybersecurity",
@@ -1825,7 +1825,7 @@
             "open_issues": 1,
             "owner": "CSIRT-MU",
             "repo": "edu-resources",
-            "stars": 762,
+            "stars": 763,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1929,7 +1929,7 @@
             "open_issues": 2,
             "owner": "tina1998612",
             "repo": "Awesome-Security-Tool-List",
-            "stars": 398,
+            "stars": 397,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:17:06.279Z",
+    "last_updated": "2026-09-07T23:48:59.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
@@ -1947,7 +1947,7 @@
       "id": 462226367,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-02T12:09:18Z",
+      "last_commit": "2026-09-07T08:15:53Z",
       "open_issues": 0,
       "owner": "secnotes",
       "repo": "awesome-cybersecurity",
@@ -1959,7 +1959,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "1e9a250d11fa05b7a1069d2a44f0ac01c3472882",
+    "original_repository_sha": "f2d286708745d44ba9a7c4bf0e8a3242abf7ecc3",
     "enhanced_repository": "enhansome/enhansome-cybersecurity",
     "enhanced_repository_description": null,
     "title": "Awesome Cybersecurity with stars"
