@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 120172,
+            "stars": 120246,
             "topics": [
               "android",
               "awesome",
@@ -47,10 +47,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 326,
+            "open_issues": 329,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14849,
+            "stars": 14850,
             "topics": [
               "awesome-list",
               "security"
@@ -74,7 +74,7 @@
             "open_issues": 126,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6548,
+            "stars": 6550,
             "topics": [
               "awesome-list",
               "best-practices",
@@ -110,7 +110,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4235,
+            "stars": 4236,
             "topics": [
               "conferences",
               "hacking",
@@ -181,10 +181,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T13:54:39Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 917,
+            "stars": 921,
             "topics": [
               "active-directory",
               "ai-agents",
@@ -226,7 +226,7 @@
             "open_issues": 0,
             "owner": "alphaSeclab",
             "repo": "awesome-cyber-security",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "anti-virus",
               "burp",
@@ -274,7 +274,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9685,
+            "stars": 9684,
             "topics": [
               "android",
               "awesome",
@@ -408,7 +408,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T05:53:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
             "stars": 1735,
@@ -979,7 +979,7 @@
             "open_issues": 3,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4596,
+            "stars": 4606,
             "topics": [
               "automotive",
               "awesome",
@@ -1051,7 +1051,7 @@
             "open_issues": 2,
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2441,
+            "stars": 2442,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14188,
+            "stars": 14189,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1502,7 +1502,7 @@
             "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11842,
+            "stars": 11844,
             "topics": [
               "awesome",
               "ctf",
@@ -1525,10 +1525,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9379,
+            "stars": 9380,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1558,7 +1558,7 @@
             "open_issues": 80,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5566,
+            "stars": 5570,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1615,7 +1615,7 @@
             "open_issues": 1,
             "owner": "correlatedsecurity",
             "repo": "Awesome-SOAR",
-            "stars": 1003,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1697,7 +1697,7 @@
             "open_issues": 18,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "appsec",
               "ctf",
@@ -1739,7 +1739,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9726,
+            "stars": 9728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1760,7 +1760,7 @@
             "open_issues": 2,
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7789,
+            "stars": 7791,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1929,7 +1929,7 @@
             "open_issues": 2,
             "owner": "tina1998612",
             "repo": "Awesome-Security-Tool-List",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:34:21.680Z",
+    "last_updated": "2026-09-12T23:27:28.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
@@ -1951,7 +1951,7 @@
       "open_issues": 0,
       "owner": "secnotes",
       "repo": "awesome-cybersecurity",
-      "stars": 81,
+      "stars": 82,
       "topics": [
         "awesome",
         "awesome-list",
