@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 120926,
+            "stars": 120998,
             "topics": [
               "android",
               "awesome",
@@ -47,10 +47,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 338,
+            "open_issues": 340,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14876,
+            "stars": 14880,
             "topics": [
               "awesome-list",
               "security"
@@ -70,8 +70,8 @@
             "id": 184064793,
             "language": null,
             "license": null,
-            "last_commit": "2026-05-05T21:38:04Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-22T20:30:20Z",
+            "open_issues": 130,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
             "stars": 6555,
@@ -157,7 +157,7 @@
             "open_issues": 16,
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1954,
+            "stars": 1955,
             "topics": [
               "certification",
               "cyber-security",
@@ -184,7 +184,7 @@
             "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 957,
+            "stars": 963,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -226,7 +226,7 @@
             "open_issues": 0,
             "owner": "alphaSeclab",
             "repo": "awesome-cyber-security",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "anti-virus",
               "burp",
@@ -270,11 +270,11 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T06:04:24Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-22T04:19:19Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9703,
+            "stars": 9705,
             "topics": [
               "android",
               "awesome",
@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "saeidshirazi",
             "repo": "awesome-android-security",
-            "stars": 2023,
+            "stars": 2025,
             "topics": [
               "android-awesome",
               "android-cookbook",
@@ -531,7 +531,7 @@
             "open_issues": 0,
             "owner": "engn33r",
             "repo": "awesome-bluetooth-security",
-            "stars": 615,
+            "stars": 616,
             "topics": [
               "awesome",
               "awesome-list",
@@ -593,7 +593,7 @@
             "open_issues": 9,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13812,
+            "stars": 13816,
             "topics": [
               "awesome",
               "awesome-list",
@@ -979,7 +979,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4637,
+            "stars": 4641,
             "topics": [
               "automotive",
               "awesome",
@@ -1013,7 +1013,7 @@
             "open_issues": 12,
             "owner": "vaib25vicky",
             "repo": "awesome-mobile-security",
-            "stars": 3544,
+            "stars": 3546,
             "topics": [
               "android",
               "android-security",
@@ -1336,7 +1336,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9393,
+            "stars": 9394,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1383,7 +1383,7 @@
             "open_issues": 40,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "ethereum",
               "evm",
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14209,
+            "stars": 14215,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1502,7 +1502,7 @@
             "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11861,
+            "stars": 11862,
             "topics": [
               "awesome",
               "ctf",
@@ -1528,7 +1528,7 @@
             "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9401,
+            "stars": 9403,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1558,7 +1558,7 @@
             "open_issues": 82,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5572,
+            "stars": 5575,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1693,8 +1693,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T13:37:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-22T23:25:37Z",
+            "open_issues": 17,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 45,
@@ -1760,7 +1760,7 @@
             "open_issues": 3,
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7812,
+            "stars": 7815,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:59.437Z",
+    "last_updated": "2026-09-22T23:52:26.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
@@ -1947,7 +1947,7 @@
       "id": 462226367,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T08:53:59Z",
+      "last_commit": "2026-09-22T12:36:04Z",
       "open_issues": 0,
       "owner": "secnotes",
       "repo": "awesome-cybersecurity",
@@ -1959,7 +1959,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "8bc2a0e480193080db80f50a80ed4d279e8d858a",
+    "original_repository_sha": "37e11145179352fb8e608c7fd204515e3802b4f6",
     "enhanced_repository": "enhansome/enhansome-cybersecurity",
     "enhanced_repository_description": null,
     "title": "Awesome Cybersecurity with stars"
