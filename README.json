@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 120859,
+            "stars": 120926,
             "topics": [
               "android",
               "awesome",
@@ -47,10 +47,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14871,
+            "stars": 14876,
             "topics": [
               "awesome-list",
               "security"
@@ -74,7 +74,7 @@
             "open_issues": 129,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6554,
+            "stars": 6555,
             "topics": [
               "awesome-list",
               "best-practices",
@@ -136,7 +136,7 @@
             "open_issues": 10,
             "owner": "gerryguy311",
             "repo": "Free_CyberSecurity_Professional_Development_Resources",
-            "stars": 2197,
+            "stars": 2198,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -157,7 +157,7 @@
             "open_issues": 16,
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1953,
+            "stars": 1954,
             "topics": [
               "certification",
               "cyber-security",
@@ -175,37 +175,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
+            "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
             "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T14:48:07Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-21T12:03:59Z",
+            "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 955,
+            "stars": 957,
             "topics": [
               "active-directory",
-              "ai-agents",
+              "ai-penetration-testing",
               "ai-red-team",
+              "ai-red-teaming",
+              "ai-security",
               "ai-security-tool",
-              "autonomous-agents",
+              "autonomous-ai",
               "cloud-security",
-              "firmware-security",
-              "iot-security",
               "kubernetes",
               "llm",
+              "llm-security",
               "local-llm",
               "mcp",
-              "multi-agent-systems",
               "offensive-security",
               "penetration-testing",
               "pentesting",
               "red-team",
-              "security-automation",
               "security-tools",
-              "self-hosted"
+              "self-hosted",
+              "vulnerability-scanner"
             ]
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -270,8 +270,8 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T21:20:40Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-21T06:04:24Z",
+            "open_issues": 2,
             "owner": "ashishb",
             "repo": "android-security-awesome",
             "stars": 9703,
@@ -358,7 +358,7 @@
             "open_issues": 15,
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2019,
+            "stars": 2021,
             "topics": [
               "awesome",
               "awesome-list",
@@ -440,7 +440,7 @@
             "open_issues": 0,
             "owner": "kai5263499",
             "repo": "osx-security-awesome",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "awesome",
               "awesome-list",
@@ -675,7 +675,7 @@
             "open_issues": 5,
             "owner": "jassics",
             "repo": "awesome-aws-security",
-            "stars": 1597,
+            "stars": 1598,
             "topics": [
               "awesome",
               "awesome-list",
@@ -979,7 +979,7 @@
             "open_issues": 5,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4632,
+            "stars": 4637,
             "topics": [
               "automotive",
               "awesome",
@@ -1051,7 +1051,7 @@
             "open_issues": 2,
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2449,
+            "stars": 2450,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1103,10 +1103,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-14T17:07:08Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
-            "stars": 3039,
+            "stars": 3040,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1336,7 +1336,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9392,
+            "stars": 9393,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14207,
+            "stars": 14209,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1499,7 +1499,7 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2024-07-22T19:59:35Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
             "stars": 11861,
@@ -1525,7 +1525,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 83,
+            "open_issues": 82,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
             "stars": 9401,
@@ -1555,10 +1555,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
-            "stars": 5570,
+            "stars": 5572,
             "topics": [
               "awesome-list",
               "blue-team",
@@ -1587,7 +1587,7 @@
             "open_issues": 1,
             "owner": "milabs",
             "repo": "awesome-linux-rootkits",
-            "stars": 2103,
+            "stars": 2104,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1693,7 +1693,7 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T19:59:27Z",
+            "last_commit": "2026-09-21T13:37:46Z",
             "open_issues": 20,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
@@ -1739,7 +1739,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9733,
+            "stars": 9735,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:36:42.863Z",
+    "last_updated": "2026-09-22T00:18:59.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
@@ -1947,11 +1947,11 @@
       "id": 462226367,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T08:52:43Z",
+      "last_commit": "2026-09-21T08:53:59Z",
       "open_issues": 0,
       "owner": "secnotes",
       "repo": "awesome-cybersecurity",
-      "stars": 82,
+      "stars": 83,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1959,7 +1959,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "d4624d24a2694e8cac108a0d5c9262c02530e6d5",
+    "original_repository_sha": "8bc2a0e480193080db80f50a80ed4d279e8d858a",
     "enhanced_repository": "enhansome/enhansome-cybersecurity",
     "enhanced_repository_description": null,
     "title": "Awesome Cybersecurity with stars"
