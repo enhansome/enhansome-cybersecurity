@@ -16,10 +16,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:29:02Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121951,
+            "stars": 122033,
             "topics": [
               "android",
               "awesome",
@@ -47,10 +47,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 350,
+            "open_issues": 349,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14955,
+            "stars": 14959,
             "topics": [
               "awesome-list",
               "security"
@@ -74,7 +74,7 @@
             "open_issues": 134,
             "owner": "decalage2",
             "repo": "awesome-security-hardening",
-            "stars": 6574,
+            "stars": 6577,
             "topics": [
               "awesome-list",
               "best-practices",
@@ -110,7 +110,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4237,
+            "stars": 4238,
             "topics": [
               "conferences",
               "hacking",
@@ -157,7 +157,7 @@
             "open_issues": 16,
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1967,
+            "stars": 1969,
             "topics": [
               "certification",
               "cyber-security",
@@ -184,7 +184,7 @@
             "open_issues": 8,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 1011,
+            "stars": 1013,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -274,7 +274,7 @@
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9739,
+            "stars": 9740,
             "topics": [
               "android",
               "awesome",
@@ -408,7 +408,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-09-24T04:33:01Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
             "stars": 1747,
@@ -593,7 +593,7 @@
             "open_issues": 15,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13868,
+            "stars": 13872,
             "topics": [
               "awesome",
               "awesome-list",
@@ -773,7 +773,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 723,
+            "stars": 724,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -979,7 +979,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4692,
+            "stars": 4693,
             "topics": [
               "automotive",
               "awesome",
@@ -1336,7 +1336,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9450,
+            "stars": 9452,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -1383,7 +1383,7 @@
             "open_issues": 41,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "ethereum",
               "evm",
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14263,
+            "stars": 14266,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1502,7 +1502,7 @@
             "open_issues": 69,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11901,
+            "stars": 11904,
             "topics": [
               "awesome",
               "ctf",
@@ -1528,7 +1528,7 @@
             "open_issues": 89,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9441,
+            "stars": 9443,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1693,8 +1693,8 @@
             "id": 1118475908,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T21:22:38Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-09T20:54:02Z",
+            "open_issues": 13,
             "owner": "kOaDT",
             "repo": "oss-oopssec-store",
             "stars": 51,
@@ -1739,7 +1739,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9752,
+            "stars": 9757,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T01:30:17.966Z",
+    "last_updated": "2026-10-10T01:19:23.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
