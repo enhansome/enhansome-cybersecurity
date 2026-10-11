@@ -33,20 +33,20 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 
 ## Comprehensive
 
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 122,033 | 🐛 41 | 📅 2026-07-26 - A collection of various awesome lists for hackers, pentesters and security researchers.
-* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,959 | 🐛 349 | 📅 2026-01-11 - A collection of *awesome* software, libraries, documents, books, resources and cools stuffs about security.
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 122,107 | 🐛 41 | 📅 2026-07-26 - A collection of various awesome lists for hackers, pentesters and security researchers.
+* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 14,967 | 🐛 350 | 📅 2026-01-11 - A collection of *awesome* software, libraries, documents, books, resources and cools stuffs about security.
 * [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,577 | 🐛 134 | 📅 2026-09-22 - A collection of awesome security hardening guides, tools and other resources.
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,238 | 🐛 0 | 📅 2026-02-17 - A collected list of awesome security talks.
 * [Free\_CyberSecurity\_Professional\_Development\_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) ⭐ 2,209 | 🐛 11 | 📅 2026-02-11 - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. Now its taken on a life of its own and will persist, C.
-* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) ⭐ 1,969 | 🐛 16 | 📅 2026-08-20 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,013 | 🐛 8 | 🌐 Python | 📅 2026-10-01 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
+* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) ⭐ 1,970 | 🐛 16 | 📅 2026-08-20 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,016 | 🐛 8 | 🌐 Python | 📅 2026-10-01 - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 * [awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) ⭐ 504 | 🐛 0 | 📅 2019-12-23 - Awesome Cyber Security Resource Collection. Currently contains 8000+ open source repositories, and not very well classified. For each repository, extra info included: star count, commit count, last update time. This is the DRAFT version.
 
 ## System
 
-* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,740 | 🐛 0 | 🌐 Makefile | 📅 2026-10-06 - A collection of Android security related resources.
+* [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,743 | 🐛 0 | 🌐 Makefile | 📅 2026-10-06 - A collection of Android security related resources.
 * [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) ⭐ 2,071 | 🐛 2 | 📅 2022-09-06 - Windows kernel security development.
-* [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) ⭐ 2,034 | 🐛 17 | 🌐 Python | 📅 2025-10-10 - A curated list of resources related to Industrial Control System (ICS) security.
+* [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) ⭐ 2,033 | 🐛 17 | 🌐 Python | 📅 2025-10-10 - A curated list of resources related to Industrial Control System (ICS) security.
 * [awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) ⭐ 2,026 | 🐛 2 | 📅 2026-09-02 - A curated list of Android Security materials and resources For Pentesters and Bug Hunters.
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,802 | 🐛 1 | 📅 2020-01-07 - A curated list of awesome Security Hardening techniques for Windows.
 * [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,747 | 🐛 1 | 🌐 Shell | 📅 2026-09-24 - macOS and iOS related security tools.
@@ -56,13 +56,13 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 ## Protocol
 
 * [awesome-api-security](https://github.com/arainho/awesome-api-security) ⚠️ Archived - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
-* [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) ⭐ 616 | 🐛 0 | 📅 2025-10-03 - List of Bluetooth BR/EDR/LE security resources.
+* [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) ⭐ 618 | 🐛 0 | 📅 2025-10-03 - List of Bluetooth BR/EDR/LE security resources.
 * [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security) ⭐ 176 | 🐛 3 | 📅 2019-04-10 - A collection of awesome resources related to 802.11 security, tools and other things.
 
 ## Web
 
-* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,872 | 🐛 15 | 🌐 Python | 📅 2026-09-14 - A curated list of Web Security materials and resources.
-* [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,498 | 🐛 26 | 📅 2026-03-17 - Awesome Cloud Security Resources.
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,875 | 🐛 15 | 🌐 Python | 📅 2026-09-14 - A curated list of Web Security materials and resources.
+* [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,499 | 🐛 26 | 📅 2026-03-17 - Awesome Cloud Security Resources.
 * [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) ⭐ 2,011 | 🐛 14 | 📅 2026-07-31 - A curated list for Awesome Kubernetes Security resources.
 * [awesome-aws-security](https://github.com/jassics/awesome-aws-security) ⭐ 1,605 | 🐛 7 | 📅 2026-09-14 - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security.
 * [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) ⭐ 968 | 🐛 13 | 📅 2023-12-15 - A curated list of awesome Kubernetes security resources.
@@ -95,30 +95,30 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 
 ## Unicorn
 
-* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,452 | 🐛 31 | 📅 2024-08-19 - Machine Learning for Cyber Security.
+* [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,458 | 🐛 31 | 📅 2024-08-19 - Machine Learning for Cyber Security.
 * [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) ⭐ 1,678 | 🐛 25 | 📅 2026-03-08 - AISecurity.
-* [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,483 | 🐛 41 | 📅 2024-08-20 - A curated list of awesome Ethereum security references.
+* [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,482 | 🐛 41 | 📅 2024-08-20 - A curated list of awesome Ethereum security references.
 * [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) ⭐ 1,100 | 🐛 2 | 📅 2026-07-21 - A curated list of resources dedicated to reinforcement learning applied to cyber security.
 * [Awesome-ML-Cybersecurity](https://github.com/opensci-hub/Awesome-ML-Cybersecurity) ⭐ 80 | 🐛 0 | 📅 2019-11-09 - Machine Learning For Cybersecurity.
 
 ## Technologies
 
-* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,266 | 🐛 25 | 📅 2024-06-07 - Defund the Police.
-* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 11,904 | 🐛 69 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares.
-* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,443 | 🐛 89 | 📅 2026-07-15 - A curated list of tools for incident response.
-* [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,596 | 🐛 84 | 📅 2024-07-15 - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+* [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,268 | 🐛 25 | 📅 2024-06-07 - Defund the Police.
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 11,907 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares.
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,442 | 🐛 89 | 📅 2026-07-15 - A curated list of tools for incident response.
+* [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,597 | 🐛 84 | 📅 2024-07-15 - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 * [awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) ⭐ 2,110 | 🐛 1 | 📅 2026-02-15 - A curated list of Linux rootkits and related resources.
-* [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) ⭐ 1,004 | 🐛 1 | 📅 2024-08-26 - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
+* [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) ⭐ 1,005 | 🐛 1 | 📅 2024-08-26 - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
 * [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) ⭐ 1,003 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
 * [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) ⭐ 107 | 🐛 0 | 📅 2023-01-20 - A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Red Team in Cybersecurity.
 * [oopssec-store](https://github.com/kOaDT/oss-oopssec-store) ⭐ 51 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-09 - An intentionally vulnerable e-commerce application built with Next.js for web security training and CTF practice.
 
 ## Information
 
-* [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,757 | 🐛 16 | 🌐 HTML | 📅 2026-06-07 - Curated list of public penetration test reports released by several consulting firms and academic security groups.
-* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,854 | 🐛 3 | 🌐 Markdown | 📅 2026-08-05 - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+* [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,759 | 🐛 16 | 🌐 HTML | 📅 2026-06-07 - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+* [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) ⭐ 7,855 | 🐛 3 | 🌐 Markdown | 📅 2026-08-05 - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 * [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,091 | 🐛 16 | 📅 2024-03-02 - A curated list of amazingly awesome Cybersecurity datasets.
-* [edu-resources](https://github.com/CSIRT-MU/edu-resources) ⭐ 772 | 🐛 1 | 📅 2026-09-09 - An awesome list of cybersecurity educational resources.
+* [edu-resources](https://github.com/CSIRT-MU/edu-resources) ⭐ 772 | 🐛 2 | 📅 2026-09-09 - An awesome list of cybersecurity educational resources.
 * [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) ⭐ 586 | 🐛 3 | 📅 2026-09-20 - A list of cybersecurity internships.
 
 ## Other
@@ -129,4 +129,4 @@ Awesome cybersecurity repositories (Data is automatically updated regularly)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
