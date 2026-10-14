@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 122342,
+            "stars": 122479,
             "topics": [
               "android",
               "awesome",
@@ -47,10 +47,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 353,
+            "open_issues": 356,
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14971,
+            "stars": 14973,
             "topics": [
               "awesome-list",
               "security"
@@ -110,7 +110,7 @@
             "open_issues": 0,
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4240,
+            "stars": 4241,
             "topics": [
               "conferences",
               "hacking",
@@ -136,7 +136,7 @@
             "open_issues": 11,
             "owner": "gerryguy311",
             "repo": "Free_CyberSecurity_Professional_Development_Resources",
-            "stars": 2211,
+            "stars": 2213,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -157,7 +157,7 @@
             "open_issues": 16,
             "owner": "fabionoth",
             "repo": "awesome-cyber-security",
-            "stars": 1972,
+            "stars": 1974,
             "topics": [
               "certification",
               "cyber-security",
@@ -184,7 +184,7 @@
             "open_issues": 8,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -270,11 +270,11 @@
             "id": 22117770,
             "language": "Makefile",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:48:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T07:10:40Z",
+            "open_issues": 0,
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9750,
+            "stars": 9751,
             "topics": [
               "android",
               "awesome",
@@ -330,7 +330,7 @@
             "open_issues": 17,
             "owner": "hslatman",
             "repo": "awesome-industrial-control-system-security",
-            "stars": 2034,
+            "stars": 2036,
             "topics": [
               "awesome",
               "awesome-list",
@@ -386,7 +386,7 @@
             "open_issues": 1,
             "owner": "PaulSec",
             "repo": "awesome-windows-domain-hardening",
-            "stars": 1802,
+            "stars": 1803,
             "topics": [
               "hardening",
               "security",
@@ -407,11 +407,11 @@
             "id": 29182759,
             "language": "Shell",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-11T05:38:17Z",
+            "last_commit": "2026-10-13T21:51:56Z",
             "open_issues": 0,
             "owner": "ashishb",
             "repo": "osx-and-ios-security-awesome",
-            "stars": 1750,
+            "stars": 1753,
             "topics": [
               "awesome",
               "awesome-list",
@@ -436,7 +436,7 @@
             "id": 64573526,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-06-27T22:16:28Z",
+            "last_commit": "2026-10-13T21:40:49Z",
             "open_issues": 0,
             "owner": "kai5263499",
             "repo": "osx-security-awesome",
@@ -590,10 +590,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-14T12:46:56Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13894,
+            "stars": 13896,
             "topics": [
               "awesome",
               "awesome-list",
@@ -654,7 +654,7 @@
             "open_issues": 14,
             "owner": "magnologan",
             "repo": "awesome-k8s-security",
-            "stars": 2010,
+            "stars": 2011,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -675,7 +675,7 @@
             "open_issues": 7,
             "owner": "jassics",
             "repo": "awesome-aws-security",
-            "stars": 1606,
+            "stars": 1607,
             "topics": [
               "awesome",
               "awesome-list",
@@ -773,7 +773,7 @@
             "open_issues": 5,
             "owner": "myugan",
             "repo": "awesome-docker-security",
-            "stars": 724,
+            "stars": 725,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -979,7 +979,7 @@
             "open_issues": 6,
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4698,
+            "stars": 4700,
             "topics": [
               "automotive",
               "awesome",
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2466,
+            "stars": 2467,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1106,7 +1106,7 @@
             "open_issues": 26,
             "owner": "lirantal",
             "repo": "awesome-nodejs-security",
-            "stars": 3047,
+            "stars": 3048,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1139,7 +1139,7 @@
             "open_issues": 9,
             "owner": "guardrailsio",
             "repo": "awesome-golang-security",
-            "stars": 1960,
+            "stars": 1961,
             "topics": [
               "awesome-list",
               "golang",
@@ -1166,7 +1166,7 @@
             "open_issues": 8,
             "owner": "guardrailsio",
             "repo": "awesome-php-security",
-            "stars": 1036,
+            "stars": 1037,
             "topics": [
               "application-security",
               "awesome",
@@ -1220,8 +1220,8 @@
             "id": 172846033,
             "language": null,
             "license": "MIT",
-            "last_commit": "2025-11-02T20:16:36Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-13T15:00:54Z",
+            "open_issues": 0,
             "owner": "Binject",
             "repo": "awesome-go-security",
             "stars": 754,
@@ -1362,7 +1362,7 @@
             "open_issues": 25,
             "owner": "DeepSpaceHarbor",
             "repo": "Awesome-AI-Security",
-            "stars": 1679,
+            "stars": 1681,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1461,7 +1461,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14274,
+            "stars": 14277,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -1499,10 +1499,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2024-07-22T19:59:35Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11913,
+            "stars": 11916,
             "topics": [
               "awesome",
               "ctf",
@@ -1524,11 +1524,11 @@
             "id": 45943554,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-13T05:08:25Z",
+            "open_issues": 89,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9447,
+            "stars": 9449,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1555,7 +1555,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-15T08:05:27Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "fabacab",
             "repo": "awesome-cybersecurity-blueteam",
             "stars": 5602,
@@ -1587,7 +1587,7 @@
             "open_issues": 1,
             "owner": "milabs",
             "repo": "awesome-linux-rootkits",
-            "stars": 2108,
+            "stars": 2110,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1636,7 +1636,7 @@
             "open_issues": 0,
             "owner": "cpuu",
             "repo": "awesome-fuzzing",
-            "stars": 1003,
+            "stars": 1004,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1739,7 +1739,7 @@
             "open_issues": 16,
             "owner": "juliocesarfort",
             "repo": "public-pentesting-reports",
-            "stars": 9762,
+            "stars": 9766,
             "topics": []
           },
           "first_seen": "2026-08-28T05:50:32.490Z"
@@ -1760,7 +1760,7 @@
             "open_issues": 3,
             "owner": "JoseDeFreitas",
             "repo": "awesome-youtubers",
-            "stars": 7861,
+            "stars": 7863,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1939,7 +1939,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:44:22.188Z",
+    "last_updated": "2026-10-14T00:39:36.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome github repositories about security",
